@@ -1,0 +1,103 @@
+{
+  "pasien": [
+    {
+      "id": "cf50",
+      "nama": "joko",
+      "tanggal": 1,
+      "bulan": 1,
+      "tahun": 2025,
+      "jenisKelamin": "Laki-laki",
+      "alamat": "Pahlawan Kerja",
+      "telepon": "089545127811",
+      "email": "joko@example.com",
+      "golonganDarah": "A",
+      "tanggalLahir": "2025-01-01"
+    },
+    {
+      "id": "33b3",
+      "nama": "andi",
+      "tanggal": 2,
+      "bulan": 2,
+      "tahun": 2024,
+      "jenisKelamin": "Laki-laki",
+      "alamat": "Air Dingin",
+      "telepon": "089545127822",
+      "email": "andi@example.com",
+      "golonganDarah": "B",
+      "tanggalLahir": "2024-02-02"
+    },
+    {
+      "id": "141b",
+      "nama": "Putri",
+      "tanggal": 3,
+      "bulan": 3,
+      "tahun": 2023,
+      "jenisKelamin": "Perempuan",
+      "alamat": "Sudirman",
+      "telepon": "089545127844",
+      "email": "Putri@example.com",
+      "golonganDarah": "B",
+      "tanggalLahir": "2023-03-03"
+    }
+  ],
+  "pendaftaran": [
+    {
+      "id": "ed77",
+      "nama": "Mega",
+      "tanggal": "2025-07-09",
+      "poli": "Umum"
+    },
+    {
+      "id": "44e0",
+      "nama": "Anwar",
+      "tanggal": "2025-07-10",
+      "poli": "Gigi"
+    },
+    {
+      "id": "fa7a",
+      "nama": "Anto",
+      "tanggal": "2025-07-22",
+      "poli": "Anak"
+    }
+  ],
+  "rekammedis": [
+    {
+      "id": "f516",
+      "nama": "Joko",
+      "diagnosa": "Penyakit Alzheimer",
+      "obat": "Donepezil, Rivastigmine, dan Memantine"
+    },
+    {
+      "id": "9d79",
+      "nama": "Hani",
+      "diagnosa": "Aritmia",
+      "obat": "warfarin dan aspirin"
+    },
+    {
+      "id": "c1e6",
+      "nama": "kiki",
+      "diagnosa": " Penyakit ginjal kronis (PGK)",
+      "obat": "tidak dapat disembuhkan"
+    }
+  ],
+  "dokter": [
+    {
+      "id": "a499",
+      "nama": "dr. A. Deviriyanti Agung, Sp.OG",
+      "spesialis": "gigi",
+      "telepon": "08124584582"
+    },
+    {
+      "id": "1be2",
+      "nama": "dr. Ade Kurnia Surawijaya, Sp.KJ",
+      "spesialis": "Kandungan",
+      "telepon": "08125428581"
+    },
+    {
+      "id": "9081",
+      "nama": "dr. Abdul Haris Tri Prasetio, Sp.PD",
+      "spesialis": "Kulit",
+      "telepon": "08475582554"
+    }
+  ]
+}
